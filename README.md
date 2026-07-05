@@ -133,13 +133,15 @@ Final Answer
 ```
 
 ---
+## 🌐 Live Demo
+
+https://rag-chatbot-aj.streamlit.app/
 
 ## 📌 Future Improvements
 
 - Support multiple PDF uploads
 - Conversation memory
 - Source page references
-- Deploy to Streamlit Cloud
 - Advanced retrieval techniques
 
 ---
